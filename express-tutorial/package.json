@@ -1,0 +1,19 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "description": "a practice file to learn more about express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "author": "Sachin-dashzer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
